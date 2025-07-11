@@ -16,7 +16,7 @@ A full-stack application that provides personalized life insurance recommendatio
 - **Backend**: Node.js, Express
 - **Database**: PostgreSQL
 - **Containerization**: Docker
-- **CI/CD**: (Optional: Add if applicable)
+
 
 ## Prerequisites
 
